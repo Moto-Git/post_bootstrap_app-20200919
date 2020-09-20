@@ -40,3 +40,13 @@ div.field_with_errors {
     border: 2px solid red;
   }
 }
+
+// テーブル
+th,
+td {
+  vertical-align: middle !important;
+}
+
+.break-word {
+  word-break: break-word;
+}
